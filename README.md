@@ -1,2 +1,1 @@
-# IT115-final-project
-Final Project for IT115
+# Artificial_Intelligence_Project
